@@ -26,7 +26,7 @@ def banner():
 |  $$$$$$/| $$ \/  | $$|  $$$$$$/      | $$$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$/| $$$$$$$$| $$  | $$
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
                                                                                                                                                                                                     
-                                   By : D3XBugg3R                                                                                                 
+                                   By : Hi Donkey                                                                                                 
     Note : I won't be responsible for any damage caused by this script, Use at your own risk
 """)
 
